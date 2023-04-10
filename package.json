@@ -1,0 +1,17 @@
+{
+  "name": "node_auth",
+  "description": "Node.js auth microservice",
+  "version": "1.0.0",
+  "author": "John Hiz <i.vasiliev.dev@gmail.com>",
+  "homepage": "https://github.com/JohnHiz/node_auth",
+  "repository": "git@github.com:JohnHiz/node_auth.git",
+  "license": "ISC",
+  "type": "module",
+  "engine": {
+    "node": "^16.20.0",
+    "npm": "^8.19.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
